@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Example Files
+advice.txt
+machine_learning_steps.data
+temps_2019_07.svg
+temps_2019_07.png
