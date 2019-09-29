@@ -4,7 +4,7 @@
 The essentials of Python in a handy Quick Reference with comprehensible code examples and intuitive navigation.  
 Not for learning, just for reference.
 
-Document as of: September 29, 2019 (incomplete)  
+Document as of: September 30, 2019 (incomplete)  
 Python Version: 3.7.3
 
 ---
